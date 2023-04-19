@@ -1,6 +1,6 @@
 ## My Minimal Landing Page
 
-<a href="https://100rabhcsmc.github.io/Me.io/">Preview</a>
+<a href=" https://vickypineli.github.io/minilanding/">Preview</a>
 
 
 <img src="MyLandingPage.png">
